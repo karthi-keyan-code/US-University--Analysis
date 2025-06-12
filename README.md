@@ -1,5 +1,5 @@
 # US-University--Analysis
- Predicting university enrollment &amp; graduation rates using student profile data (SAT, ethnicity, gender, cost) with EDA and data-driven insights.
+ Estimating the university enrollment &amp; graduation rates using student profile data (SAT, ethnicity, gender, cost) with EDA and data-driven insights.
 
 # 🎓 U.S. University Admissions & Graduation Analysis
 
@@ -25,7 +25,7 @@ Students need to:
 
 ## 🔍 Objectives
 
-1. Predict the **likely enrollment rate** of admitted students.
+1. PEstimate likely **enrollment rate** based on past trends
 2. Estimate the **graduation rate** based on incoming student profiles.
 3. Identify **most lucrative colleges** for students in terms of pass rate vs cost.
 
