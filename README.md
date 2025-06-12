@@ -97,5 +97,5 @@ This analysis offers data-backed insights to:
 
 ## 🧾 Author
 
-**Karthikeyan Ramesh**  
+**Karthi**  
 Aspiring Data Analyst
