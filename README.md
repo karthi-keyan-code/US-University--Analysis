@@ -25,7 +25,7 @@ Students need to:
 
 ## 🔍 Objectives
 
-1. PEstimate likely **enrollment rate** based on past trends
+1. Estimate likely **enrollment rate** based on past trends
 2. Estimate the **graduation rate** based on incoming student profiles.
 3. Identify **most lucrative colleges** for students in terms of pass rate vs cost.
 
@@ -50,9 +50,7 @@ Students need to:
 - **Python**
   - `Pandas` – data wrangling and analysis
   - `Matplotlib`, `Seaborn` – data visualization
-  - `NumPy` – numerical operations
 - **Jupyter Notebook** – interactive analysis
-- **Scikit-learn** *(optional)* – model building (if used)
 
 ---
 
